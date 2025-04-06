@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub
 
-I’m a Google certified data analyst with a background in tech operations and project management — now specializing in **data-driven storytelling, machine learning, and analytics strategy**. I bring over 5 years of experience at Amazon where I helped drive scalable support systems.
+I’m a Google-certified data analyst with a background in tech operations and project management — now specializing in **data-driven storytelling, machine learning, and analytics strategy**. I bring over 5 years of experience at Amazon, where I helped drive scalable support systems.
 
 ---
 
@@ -27,7 +27,8 @@ I’m a Google certified data analyst with a background in tech operations and p
 
 ## 💼 Projects
 Check out a few of my favorite analytics projects:
-- [Waze Customer Churn Prediction](https://github.com/venugvis/waze-customer-churn/blob/main/README.md) (April 2025)
+- [Salifort Motors Employee Retention Prediction](https://github.com/venugvis/salifort-employee-retention-prediction/blob/main/README.md) (April 2025)
+- [Waze Customer Churn Prediction](https://github.com/venugvis/waze-customer-churn/blob/main/README.md) (March 2025)
 - [Bellabeat Wellness Tracker Analysis](https://www.kaggle.com/code/venugvis/bellabeat-case-study-data-analysis-and-insights) (November 2024)
 - More coming soon...
 
