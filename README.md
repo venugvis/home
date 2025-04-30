@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2300&pause=1000&color=3AB8EB&width=900&height=100&lines=%F0%9F%91%8B+Hey+there!;I'm+Vishnu;Google+certified+Data+Analyst+and+a+storyteller..;Formerly+a+program+specialist+at+Amazon...;...now+deep+in+analytics....;I+love+finding+meaning+in+messy+data.;Let's+turn+numbers+into+narratives.;Feel+free+to+look+around.+;........)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2300&pause=1000&color=3AB8EB&width=900&height=100&lines=%F0%9F%91%8B+Hey+there!;I'm+Vishnu;Google+certified+Data+Analyst+and+a+storyteller..;Formerly+a+program+specialist+at+Amazon...;...now+deep+in+analytics....;I+love+finding+meaning+in+messy+data.;Let's+turn+numbers+into+narratives.;Feel+free+to+look+around.+;........)
 
 # 👋 Welcome to My GitHub
 
