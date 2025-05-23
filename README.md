@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2300&pause=1000&color=3AB8EB&width=900&height=100&lines=%F0%9F%91%8B+Hey+there!;I'm+Vishnu;Google+certified+Data+Analyst+and+a+storyteller..;Formerly+a+program+specialist+at+Amazon...;...now+deep+in+analytics....;I+love+finding+meaning+in+messy+data.;Let's+turn+numbers+into+narratives.;Feel+free+to+look+around.+;........)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2300&pause=1000&color=3AB8EB&width=900&height=100&lines=%F0%9F%91%8B+Hey+there!;I'm+Vishnu;Research+Analyst+@+Wipro;Google+certified+Data+Analyst+and+a+storyteller..;Formerly+a+program+specialist+at+Amazon...;...now+deep+in+analytics....;I+love+finding+meaning+in+messy+data.;Let's+turn+numbers+into+narratives.;Feel+free+to+look+around.+;........)
 
 # 👋 Welcome to My GitHub
 
-I’m a Google-certified data analyst with a background in tech operations and project management — now specializing in **data-driven storytelling, machine learning, and analytics strategy**. I bring over 5 years of experience at Amazon, where I helped drive scalable support systems.
+I’m a Research Analyst at Wipro. Also, a Google-certified data analyst with a background in tech operations and project management — now specializing in **data-driven storytelling, machine learning, stats researching and analytics strategy**. I bring over 5 years of experience previously at Amazon, where I helped drive scalable support systems.
 
 ---
 
@@ -20,7 +20,7 @@ I’m a Google-certified data analyst with a background in tech operations and p
 ## What I Do
 
 - Query and clean data using **SQL** (BigQuery, MySQL)
-- Analyze patterns and trends using **Python** (Pandas, NumPy, SciPy, scikit-learn)
+- Analyze patterns and trends using **Python** (Pandas, NumPy, SciPy, scikit-learn) and **R programming**
 - Build predictive models with **XGBoost, Random Forest, Logistic Regression**, and more
 - Create dynamic dashboards in **Tableau** and **Google Sheets**
 - Visualize insights using **Matplotlib** and **Seaborn**
@@ -30,11 +30,11 @@ I’m a Google-certified data analyst with a background in tech operations and p
 
 ## Portfolio Projects
 
-Here's a snapshot of some of my favorite analytics and machine learning case studies:
+Here's a snapshot of some of my favourite analytics and machine learning case study projects:
 
 | Project | Description | Tools & Techniques | Link |
 |--------|-------------|--------------------|------|
-| **Customer Purchase Prediction** | End-to-end ETL, EDA, and Random Forest classifier using GridSearchCV to predict customer purchase behavior | Python, Pandas, Seaborn, scikit-learn, Git | [GitHub](https://github.com/venugvis/customer-purchase-prediction) |
+| **Customer Purchase Prediction** | End-to-end ETL, EDA, and Random Forest classifier using GridSearchCV to predict customer purchase behaviour | Python, Pandas, Seaborn, scikit-learn, Git | [GitHub](https://github.com/venugvis/customer-purchase-prediction) |
 | **Salifort Motors Employee Retention** | Predicting employee turnover and identifying key drivers of attrition for an automotive firm | Logistic Regression, EDA, Feature Selection | [GitHub](https://github.com/venugvis/salifort-employee-retention-prediction) |
 | **Waze Customer Churn** | Classification model to detect churn-prone users based on activity and subscription data | XGBoost, SMOTE, Feature Engineering | [GitHub](https://github.com/venugvis/waze-customer-churn) |
 | **Bellabeat Wellness Tracker** | Exploratory analysis of smart device usage to recommend personalized health strategies | R, ggplot2, Tidyverse | [Kaggle](https://www.kaggle.com/code/venugvis/bellabeat-case-study-data-analysis-and-insights) |
@@ -82,4 +82,4 @@ Here's a snapshot of some of my favorite analytics and machine learning case stu
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3AB8EB&width=1000&height=80&lines=Thanks+for+stopping+by...;...feel+free+to+reach+out+if+you+want+to+collaborate%2C+connect...;or+talk+about+data!+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3AB8EB&width=1000&height=80&lines=Thanks+for+stopping+by...;...feel+free+to+reach+out+if+you+want+to+collaborate%2C+connect...;or+talk+about+data!+%F0%9F%98%84)]
