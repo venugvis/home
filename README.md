@@ -82,4 +82,4 @@ Here's a snapshot of some of my favourite analytics and machine learning case st
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3AB8EB&width=1000&height=80&lines=Thanks+for+stopping+by...;...feel+free+to+reach+out+if+you+want+to+collaborate%2C+connect...;or+talk+about+data!+%F0%9F%98%84)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3AB8EB&width=1000&height=80&lines=Thanks+for+stopping+by...;...feel+free+to+reach+out+if+you+want+to+collaborate%2C+connect...;or+talk+about+data!+%F0%9F%98%84)
